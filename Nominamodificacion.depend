@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1747935484 source:c:\users\tromp\onedrive\documentos\codeblocks\proyectofinal\nominamodificacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	"empleados.h"
+
+1747933472 c:\users\tromp\onedrive\documentos\codeblocks\proyectofinal\nominamodificacion\empleados.h
+
+1747935491 source:c:\users\tromp\onedrive\documentos\codeblocks\proyectofinal\nominamodificacion\empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleados.h"
+
